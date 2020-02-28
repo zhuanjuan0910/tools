@@ -1,2 +1,6 @@
-# tools
-软件工具
+# 常用软件开发工具
+- vscode
+- git
+- ssh
+- curl
+- docker
